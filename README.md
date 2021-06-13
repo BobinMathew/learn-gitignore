@@ -1,3 +1,5 @@
 # learn-gitignore
 
-- [ ] first push
+- [x] first push
+- [x] first pull
+- [ ] study about upstream ....
