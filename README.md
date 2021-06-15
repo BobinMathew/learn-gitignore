@@ -2,4 +2,5 @@
 
 - [x] first push
 - [x] first pull
-- [ ] study about upstream ....
+- [x] study about upstream 
+- [ ] Study about git actions
