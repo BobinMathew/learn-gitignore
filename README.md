@@ -4,3 +4,4 @@
 - [x] first pull
 - [x] study about upstream 
 - [ ] Study about git actions
+  - [ ] git action in django 
