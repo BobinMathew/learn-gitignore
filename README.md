@@ -7,4 +7,5 @@
   - [ ] git action in django 
 
 - [ ] GitHub Document
-  - [ ] Introduction to GitHub Actions
+  - [x] Introduction to GitHub Actions
+  - [ ] Finding and customizing actions
