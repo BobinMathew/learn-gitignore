@@ -8,5 +8,5 @@
 
 - [ ] GitHub Document
   - [x] Introduction to GitHub Actions
-  - [ ] Finding and customizing actions
+  - [x] Finding and customizing actions
   - [ ] Essential features of GitHub Actions
