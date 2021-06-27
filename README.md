@@ -11,4 +11,4 @@
 - [ ] GitHub Document
   - [x] Introduction to GitHub Actions
   - [x] Finding and customizing actions
-  - [ ] Essential features of GitHub Actions
+  - [x] Essential features of GitHub Actions
