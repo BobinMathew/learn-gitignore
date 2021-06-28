@@ -12,3 +12,5 @@
   - [x] Introduction to GitHub Actions
   - [x] Finding and customizing actions
   - [x] Essential features of GitHub Actions
+  - [ ] Managing complex workflows
+
