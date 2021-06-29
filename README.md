@@ -13,4 +13,5 @@
   - [x] Finding and customizing actions
   - [x] Essential features of GitHub Actions
   - [x] Managing complex workflows
+  - [x] Sharing workflows with your organization
 
