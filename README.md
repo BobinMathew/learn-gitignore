@@ -14,5 +14,5 @@
   - [x] Essential features of GitHub Actions
   - [x] Managing complex workflows
   - [x] Sharing workflows with your organization
-  - [ ] Security hardening for GitHub Actions
+  - [x] Security hardening for GitHub Actions
 
