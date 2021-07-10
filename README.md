@@ -8,7 +8,7 @@
   - [x] [Building and testing Python](https://docs.github.com/en/actions/guides/building-and-testing-python)
 
 
-- [ ] GitHub Document
+- [x] GitHub Document
   - [x] Introduction to GitHub Actions
   - [x] Finding and customizing actions
   - [x] Essential features of GitHub Actions
